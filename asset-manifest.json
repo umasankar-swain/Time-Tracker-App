@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Time-Tracker-App/static/css/main.c2cab247.css",
+    "main.js": "/Time-Tracker-App/static/js/main.01975b10.js",
+    "index.html": "/Time-Tracker-App/index.html",
+    "main.c2cab247.css.map": "/Time-Tracker-App/static/css/main.c2cab247.css.map",
+    "main.01975b10.js.map": "/Time-Tracker-App/static/js/main.01975b10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.01975b10.js"
+  ]
+}
